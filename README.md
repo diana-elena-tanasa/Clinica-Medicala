@@ -40,7 +40,7 @@ Scopul proiectului este de a gestiona pacienți, doctori, programări și fișe 
 
 1. Clonează repository-ul: https://github.com/diana-elena-tanasa/ClinicaMedicala.git
 2. Deschide proiectul în IntelliJ IDEA sau alt IDE compatibil cu Java
-3. Rulează metoda main() din clasa ClinicaMedicala sau dintr-o clasă Main (dacă ai una separată)
+3. Rulează clasa Main
 
 ## Ce am învățat
 - Aplicarea principiilor OOP (moștenire, compoziție, incapsulare)
